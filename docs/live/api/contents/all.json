@@ -2,7 +2,35 @@
   "content": [
     {
       "content": null,
-      "created": "2026-08-01T02:39:56.973321Z",
+      "created": "2026-08-01T02:46:34.096899Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-01T02:46:34.096899Z",
+      "mimetype": null,
+      "name": "curiosities",
+      "path": "curiosities",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-01T02:46:34.098797Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-01T02:46:34.098797Z",
+      "mimetype": null,
+      "name": "python_analysis",
+      "path": "python_analysis",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-08-01T02:46:34.121358Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -15,11 +43,11 @@
       "writable": true
     }
   ],
-  "created": "2026-08-01T02:39:56.972576Z",
+  "created": "2026-08-01T02:46:34.120532Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-08-01T02:39:56.972576Z",
+  "last_modified": "2026-08-01T02:46:34.120532Z",
   "mimetype": null,
   "name": "",
   "path": "",
