@@ -1,0 +1,92 @@
+---
+title: "📚 Course Materials"
+subtitle: "Slides, Assignments, and Resources"
+---
+
+<center>
+**CMPSC301 :: Data Science**
+
+![](../logo.png){width=20%}
+</center>
+
+---
+
+:::{.callout}
+Welcome to the course materials hub! Here you will find all lecture slides, assignments, labs, and downloadable resources organized by week. Check back regularly for updates and new content.
+:::
+
+---
+
+- **Project Downloads**: [Starter files, tutorials, and other downloadable project materials](1_project_files.html)
+
+---
+
+## W1. Welcome to Data Science! 🎉
+
+**Week of August 26, 2026**
+
+- **Getting to Know You**: [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSejfEH5ZHKSc-wT1UrCDR2kVGEuhVid-eWlyLWH97HKd56Sng/viewform?usp=dialog)
+- **Icebreaker Activity**: Pair up with classmates and learn:
+  - Names and backgrounds
+  - Programming experience
+  - Favorite data visualization you've seen
+  - A dataset you'd love to analyze
+  - Career interests in data science
+- **Important**: Join our GitHub Organization (check your email!)
+- **Discord**: Make sure you're in the course Discord server!
+
+### Materials
+- **Lecture 01**: Introduction to Data Science
+  - Slides (Coming soon!)
+  - What is data science?
+  - The data science workflow
+  - Tools and technologies
+  - Career paths
+
+### Assignments
+- **Activity 01**: Setting Up Your Data Science Environment
+  - GitHub Classroom Link (Coming soon!)
+  - Installing Python, R, Jupyter, VS Code
+  - Testing your installation
+  - First data exploration
+
+
+<!-- - **Activity 01**: Installing Essential Tools and Solving the Maze
+  - [GitHub Classroom Link](https://classroom.github.com/a/WIB5VCnJ)
+- Installing necessary software for the course (if anyone needs help!) 
+  - [Python](https://www.python.org/)
+  - [Visual Studio Code](https://code.visualstudio.com/download) 
+  - [GitHub](https://github.com/git-guides/install-git)
+  - [Pipx](https://pipx.pypa.io/stable/installation/) -->
+
+---
+
+## 📖 Recommended Resources
+
+### Free Online Books
+- [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney
+- [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham
+- [Introduction to Statistical Learning](https://www.statlearning.com/)
+
+### Online Courses
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Fast.ai](https://www.fast.ai/)
+
+### Practice Platforms
+- [Kaggle Competitions](https://www.kaggle.com/competitions)
+- [DataCamp](https://www.datacamp.com/)
+- [LeetCode](https://leetcode.com/) (for coding practice)
+
+---
+
+## 🆘 Need Help?
+
+- **Office Hours**: Monday/Wednesday 2-4 PM, Thursday 1-3 PM
+- **Discord**: Real-time chat with classmates and instructors
+- **GitHub Discussions**: Post questions about assignments
+- **Email**: [instructor@allegheny.edu](mailto:instructor@allegheny.edu)
+
+---
+
+*Materials are updated throughout the semester. Check back weekly for new content!*
