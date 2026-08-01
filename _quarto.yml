@@ -18,8 +18,6 @@ website:
       - href: index.qmd
         text: Home
       # - about.qmd
-      - href: utils/interactivePython.qmd
-        text: Interactive
       - href: playground/00_playground.qmd
         text: Playground
       - href: materials/0_materials.qmd
